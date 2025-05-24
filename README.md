@@ -7,16 +7,22 @@ Key Features and Demonstrated Skills:
 Database Design (ER Diagram): Developed a robust Entity-Relationship (ER) diagram illustrating the schema for health insurance data, including relationships between patients, insurance plans, policies, claims, and claim details.
 
 Schema Definition:
-Patients: Manages individual patient records and contact details. 
-Insurance Plans: Defines coverage and premium details for various plans. 
-Claims: Tracks patient claims, their status, and links to patient records. 
-Claim Items (formerly Claims Details): Provides itemized information for each claim. 
-Insurance Companies: Stores details of insurance providers. 
-Policy Holders: Links patients to their respective insurance plans, including policy start and end dates.
+1. Patients: Manages individual patient records and contact details.
 
-Data Manipulation Language (DML): Implemented INSERT, UPDATE, and DELETE operations for managing records across all tables, including sample data insertion and status updates. 
+2. Insurance Plans: Defines coverage and premium details for various plans. 
 
-Data Querying and Filtering: Proficiently used SELECT statements with various clauses such as WHERE, BETWEEN, IN, IS NULL, LIKE, LIMIT, and ORDER BY for precise data retrieval and filtering. 
+3. Claims: Tracks patient claims, their status, and links to patient records.
+
+4. Claim Items (formerly Claims Details): Provides itemized information for each claim. 
+
+5. Insurance Companies: Stores details of insurance providers. 
+
+6. Policy Holders: Links patients to their respective insurance plans, including policy start and end dates.
+
+7. Data Manipulation Language (DML): Implemented INSERT, UPDATE, and DELETE operations for managing records across all tables, including sample data insertion and status updates. 
+
+8.Data Querying and Filtering: Proficiently used SELECT statements with various clauses such as WHERE, BETWEEN, IN, IS NULL, LIKE, LIMIT, and ORDER BY for precise data retrieval and filtering. 
+
 Advanced SQL Techniques:
 Sorting, Distinct, and Pagination: Utilized DISTINCT, ORDER BY, and LIMIT/OFFSET for presenting unique values, ordered results, and paginated data. 
 Aggregate Functions & Grouping: Applied COUNT, SUM, AVG, MIN, MAX with GROUP BY and HAVING to perform data aggregation and generate summary reports. 
