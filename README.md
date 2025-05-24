@@ -4,7 +4,8 @@ This project involves the design, implementation, and management of a relational
 
 Key Features and Demonstrated Skills:
 
-Database Design (ER Diagram): Developed a robust Entity-Relationship (ER) diagram illustrating the schema for health insurance data, including relationships between patients, insurance plans, policies, claims, and claim details. 
+Database Design (ER Diagram): Developed a robust Entity-Relationship (ER) diagram illustrating the schema for health insurance data, including relationships between patients, insurance plans, policies, claims, and claim details.
+
 Schema Definition:
 Patients: Manages individual patient records and contact details. 
 Insurance Plans: Defines coverage and premium details for various plans. 
@@ -24,4 +25,5 @@ Subqueries: Employed subqueries for complex data retrieval, such as selecting cl
 String and Date/Time Functions: Applied various string manipulation functions (CONCAT, UPPER, LOWER, SUBSTRING, REPLACE, LEFT, RIGHT, REVERSE)  and date/time functions (extracting years, months, days; calculating date differences; adding/subtracting dates)  for data formatting and analysis.
 
 Conditional Logic (CASE): Implemented CASE statements for conditional categorization and ordering of data (e.g., categorizing patients by age group, ordering claims by status). 
+
 Views: Created SQL views (e.g., Patients Claim Summary, Public Patient Details) to simplify complex queries and provide tailored data access
